@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <style>
+        body {
+          background-image: url("https://th.bing.com/th?id=OIP.wwCY89l_0vfi1zD0y_YvowHaEK&w=210&h=117&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2");
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+        .myButton{
+            background-color: black;
+            color: white;
+            align-content: first baseline;
+        }
+        #div-1a {
+         position:absolute;
+         top:0;
+         right:0;
+         width:200px;
+        }
+    </style>
+</body>
+</html>
